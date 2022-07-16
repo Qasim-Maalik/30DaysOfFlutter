@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class HomePage extends StatelessWidget {
+class  HomePage extends StatelessWidget {
   final int days = 60;
   final int additional = 3;
   final String instructor = 'Qasim';
